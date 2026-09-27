@@ -1,35 +1,42 @@
-# 👋 Hi, I’m Matheus
+# 👋 Hi, I'm Matheus
 
-I’m a full-stack developer who loves building practical tools with Python, TypeScript, and microcontrollers.
+I'm a Software Engineer focused on **backend development, cloud technologies, and AI-driven solutions**. I enjoy building practical software, solving complex technical problems, and exploring technologies across the stack — from backend services and cloud infrastructure to embedded systems.
 
-## 🌟 What I’m interested in
-- Automation & alert systems  
-- Machine learning and artificial inteligence
-- React Native & NestJS apps  
-- Embedded systems with MicroPython  
+## 💻 What I do
 
-## 🚀 What I’m currently working on (personal projects)
-- **Receipt Scanner (TypeScript, React Native, NestJS)** – web-based OCR tool for digitizing receipts and tracking user expenses
+* Build backend applications with **Java, Spring Boot, Node.js, and TypeScript**
+* Design and develop **REST APIs and scalable services**
+* Work with **PostgreSQL, MongoDB, and Amazon DocumentDB**
+* Build and deploy cloud-native applications using **AWS, Docker, and Kubernetes**
+* Develop automation and data-processing solutions with **Python**
+* Explore **AI, computer vision, and LLM-assisted development**
 
-## 🎯 What I’m learning
-- Scaling backend services with TypeScript & NestJS  
-- Deploying vision-based pipelines with Docker  
-- Optimizing embedded systems on Raspberry Pi Pico  
+## 🛠️ Technologies
 
----
+**Languages:**
+Java · TypeScript · JavaScript · Python
 
-### 📂 Featured projects
+**Backend & Frameworks:**
+Spring Boot · NestJS · Flask · Jest · REST APIs
 
-| Project | Description |
-|--------|-------------|
-| **Receipt Scanner** | Cross-platform web app (React Native + NestJS) for OCR and expense tracking |
-| **Meta Ads Alert System** | Python app sending alerts based on Meta campaign metrics |
-| **Orthanc + TorchXRay Vision** | Dockerized PACS integration for radiology image analysis |
-| **Book Review CRUD** | Lightweight JavaScript API for storing and fetching user reviews |
-| **Weather Station (Pi Pico)** | MicroPython-driven environmental sensor station |
-| **Sound Spectrum Analyzer** | Audio spectrum visualizer running on Pi Pico |
+**Cloud & DevOps:**
+AWS · Kubernetes · Docker · GitHub Actions · AWS Lambda · CloudWatch
 
----
+**Databases:**
+PostgreSQL · MongoDB · Amazon DocumentDB
 
-Feel free to check out the code or reach out—I’m always up for collaboration or brainstorming new ideas! 😊
+**AI & Data:**
+Artificial Intelligence · Computer Vision · Keras · Pandas
 
+## 🚀 Featured Projects
+
+| Project                           | Description                                                                                                                                                                                                                                |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Vocam**                         | AI-powered application that recognizes objects and translates them into different languages, developed with Python, computer vision, and translation APIs. Finalist in the Kevin Xu Innovation Challenge 2025.                             |
+| **Weather Station**               | End-to-end embedded weather station designed from sensor integration and hardware to communication and firmware using C++, Wi-Fi, and TCP/IP sockets. The module is deployed on a university campus bus and remains in active use. |
+| **Advertising Monitoring System** | Python-based system integrating Meta Ads and Pipefy APIs to monitor KPIs, analyze customer processes, and automate email and Slack alerts through GitHub Actions.                                                                          |
+| **Orthanc AI Pipeline**           | Dockerized medical imaging pipeline integrating Orthanc, DICOM processing, and computer vision models for experimental X-ray analysis.                                                                                                     |
+| **Receipt Scanner**               | Cross-platform application for OCR-based receipt digitization and expense tracking using React Native and NestJS.                                                                                                                          |
+
+
+📫 Feel free to reach out or explore my repositories!
